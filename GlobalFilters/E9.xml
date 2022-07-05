@@ -86,8 +86,8 @@
           <outPorts>
           </outPorts>
           <params>
-<!--		  <param pid="OutputDir">/eliadedisks/w2/root_files</param> -->
-		  <param pid="OutputDir">/home/work/DELILA/run</param>
+		  <param pid="OutputDir">/eliadedisks/eligant/root_files</param>
+<!--		  <param pid="OutputDir">/home/work/DELILA/run</param> -->
           </params>
         </component>
       </components>
